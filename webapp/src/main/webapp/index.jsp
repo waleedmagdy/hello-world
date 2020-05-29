@@ -1,5 +1,5 @@
 <h1>Waleed//Magdy</h1>
-<h1>Deploy on container using ansible</h1>
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> using Jenkins as our Continuous integration and Continuous Deployment Server we succeeded to deploy on Container </h2>
-<img src="https://www.praqma.com/images/stories/jenkinsdocker.png" alt="Trulli" width="900" >
+<h1>Deploy on Docker Container Host using ansible</h1>
+<h1>Fully Automated Pipline CI/CD   </h1>
+<h2>next step is to integerate K8s with the pipline :) </h2>
+<img src="https://drive.google.com/file/d/1TQkAcOKlXpJveH-YRb9f1Bkwc7BIYkp6/view?usp=sharing" alt="Trulli" width="900" >
